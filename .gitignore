@@ -1,0 +1,3 @@
+/data_cd/*
+/c/boot_image/*
+!/**/.gitkeep
