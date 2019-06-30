@@ -1,3 +1,6 @@
 /data_cd/*
 /c/boot_image/*
+/c/myhello/*.lst
+/c/myhello/*.bin
+/c/myhello/*.img
 !/**/.gitkeep
